@@ -1,4 +1,9 @@
 # pythonMotoApi
+Kelly Johana Ascanio 
+
+ADSO 2470980
+
+CBA Mosquera
 
 Vista principal APi
 ![image](https://user-images.githubusercontent.com/101758695/208254736-5307fcc9-600e-4fa5-b1ec-1c45e6ee80f5.png)

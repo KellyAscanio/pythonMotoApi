@@ -5,7 +5,18 @@ ADSO 2470980
 
 CBA Mosquera
 
-Vista principal APi
+En este proyecto se desarrollan las siguientes API
+
+-MotoListApiView:Esta API nos muestra en una lista los datos que digitamos en la base de datos sql lite
+
+-MotoDetailApiView:Esta API nos muestra el trae get el cual nos trae las motos, método put el cual nos dejar crear una nueva moto o editar, método delete el cual nos permite eliminar una moto
+
+Para iniciar el proyecto debes tener instalado python, django, visual studio code luego entrar a la carpeta app_motos y digitar CMD en la url luego debes poner la siguiente linea ..\scripts\activate para activar el ambiente luego instalaras los requerimientos o librerias con la siguiente linea pip install -r requirements.txt el paso siguiente debes dar python manage.py runserver en el CMD te dara un link y tendras la siguiente vista
+
+![image](https://user-images.githubusercontent.com/101758695/208262490-56aa4772-9f36-42fb-b9ea-660329f4992f.png)
+
+
+Vista principal ingresamos a /API/
 ![image](https://user-images.githubusercontent.com/101758695/208254736-5307fcc9-600e-4fa5-b1ec-1c45e6ee80f5.png)
 
 Añadir objeto.
